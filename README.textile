@@ -1,5 +1,7 @@
 h1. description
 
+We merged PyLucid-boot into origin master: "github.com/jedie/PyLucid":http://github.com/jedie/PyLucid
+
 "PyLucid":http://www.pylucid.org/ is a Open Source web content management system written in Python using the Django Framework.
 
 This boot files are for easy create a pylucid virtual environment.
@@ -9,7 +11,7 @@ h2. usage
 
 to create a PyLucid virtual environment you need only one file, e.g:
 
-pre. ~$ wget http://github.com/jedie/PyLucid-boot/raw/master/pylucid_boot/pylucid-boot.py
+pre. ~$ wget https://raw.github.com/jedie/PyLucid/master/bootstrap/pylucid-boot.py
 ~$ python pylucid-boot.py ~/PyLucid_env
 
 You get this menu:
